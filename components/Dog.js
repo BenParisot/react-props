@@ -9,9 +9,12 @@ function Dog({ name, age, weight }) {
 
       <dt>Age</dt>
       <dd>{age}</dd>
-
-      <dt>Weight</dt>
-      <dd>{weight}</dd>
+    
+      {weight && 
+            <>
+                <dt>Weight</dt>
+                <dd>{weight}</dd>
+             </>}
     </dl>
 
   );
