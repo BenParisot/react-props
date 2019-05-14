@@ -15,6 +15,7 @@ export default class ColorPicker extends PureComponent {
       console.log('yellow');
     }
     render() {
+        
       return (
         <>
         <button onClick={this.redHandler} style={{ background:'red' }}>Red</button>
