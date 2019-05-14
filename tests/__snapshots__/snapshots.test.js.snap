@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorPicker component pickes a Dog 1`] = `
+<Fragment>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "red",
+      }
+    }
+  >
+    Red
+  </button>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "blue",
+      }
+    }
+  >
+    Blue
+  </button>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "yellow",
+      }
+    }
+  >
+    Yellow
+  </button>
+</Fragment>
+`;
