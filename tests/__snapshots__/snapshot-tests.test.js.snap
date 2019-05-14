@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog component renders a Dog 1`] = `
+<dl>
+  <dt>
+    Name
+  </dt>
+  <dd>
+    Joe
+  </dd>
+  <dt>
+    Age
+  </dt>
+  <dd>
+    5
+  </dd>
+  <dt>
+    Weight
+  </dt>
+  <dd>
+    90 lbs
+  </dd>
+</dl>
+`;
+
+exports[`Header component renders a Header 1`] = `
+<Fragment>
+  <img
+    src="https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1010111384,width=178,height=178,version=1487039039/smile-icon-facebook.png"
+  />
+  <h1>
+    Check out this dog yo
+  </h1>
+</Fragment>
+`;
