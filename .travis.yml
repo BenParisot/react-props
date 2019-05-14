@@ -1,2 +1,3 @@
-language: node
-node_version: node
+language: node_js
+node_js:
+  - "node"
